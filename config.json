@@ -1,0 +1,8 @@
+{
+  "files": [
+    "get_redirect.lua",
+    "get_redirect_connect.lua",
+    "file_save.lua"
+  ],
+  "directory": "lua_file"
+}
