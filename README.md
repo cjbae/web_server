@@ -28,7 +28,7 @@ http message 파싱한 객체
 handle(lua) 관리
 request 객체를 확인해서 그에 맞는 handle 호출
 
-#LuaManager
+# LuaManager
 싱글톤 패턴
 오픈소스 luabridge 사용
 웹서버 콘텐츠를 lua로 구현하고 lua 파일 관리
